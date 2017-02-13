@@ -1,0 +1,16 @@
+{
+    "name": "myfirst/assemble",
+    "description": "我的第一个组件",
+    "authors": [
+        {
+            "name": "liutao",
+            "email": "1798736436@qq.com"
+        }
+    ],
+    "require": {}
+    "autoload": {
+        "psr-4": {
+            "myfirst\\assemble\\": "src/"
+        }
+    }
+}
